@@ -1,1 +1,1 @@
-# QR-Generator
+# Web dev project 
